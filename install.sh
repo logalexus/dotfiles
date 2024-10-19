@@ -1,0 +1,1 @@
+sudo pacman -S waybar thunar rofi ttf-font-awesome otf-font-awesome ttf-jetbrains-mono
